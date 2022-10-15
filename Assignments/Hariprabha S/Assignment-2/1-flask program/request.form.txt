@@ -1,0 +1,6 @@
+form_data = {
+'key1(field1_name)' : 'value1(field1_value)',
+'key2(field2_name)' : 'value2(field2_value)',
+.
+.
+}
