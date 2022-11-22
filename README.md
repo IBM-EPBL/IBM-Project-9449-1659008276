@@ -1,5 +1,8 @@
 # IBM-Project-9449-1659008276
 PROJECT TITLE : NEWS TRACKER APPLICATION
+
+
+![Tech archi image](https://user-images.githubusercontent.com/113700969/203377616-30b2d1b5-829a-4e9c-913d-fdaa92cd5abc.png)
 TEAM MEMBERS 
          1.Team Lead    - ABIRAMI A
          2.Team Member1 - GUNAMUKHI S
@@ -22,3 +25,4 @@ PROJECT WORKFLOW
 
       
 
+![Tech archi image](https://user-images.githubusercontent.com/113700969/203377924-97155279-fe5a-4c34-90d5-f47278b0c62d.png)
