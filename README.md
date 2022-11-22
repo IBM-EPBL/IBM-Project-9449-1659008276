@@ -12,7 +12,7 @@ TEAM MEMBERS
          
          2.Team Member1 - GUNAMUKHI S
          
-         3.Team Member2 - DHESIKA S
+         3.Team Member2 - DHESIKA K
          
          4.Team Member3 - HARIPRABHA S
          
